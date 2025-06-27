@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/hillarygmlwn/frontend_backup/issues"
   },
-  "homepage": "https://github.com/hillarygmlwn/frontend_backup#readme",
+  
   "browserslist": {
     "production": [
       ">0.2%",

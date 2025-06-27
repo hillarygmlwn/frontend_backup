@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hillarygmlwn/frontend_backup/static/css/main.c692bcf8.css",
+    "main.js": "/hillarygmlwn/frontend_backup/static/js/main.5317eb05.js",
+    "static/js/488.f8b9d60e.chunk.js": "/hillarygmlwn/frontend_backup/static/js/488.f8b9d60e.chunk.js",
+    "index.html": "/hillarygmlwn/frontend_backup/index.html",
+    "main.c692bcf8.css.map": "/hillarygmlwn/frontend_backup/static/css/main.c692bcf8.css.map",
+    "main.5317eb05.js.map": "/hillarygmlwn/frontend_backup/static/js/main.5317eb05.js.map",
+    "488.f8b9d60e.chunk.js.map": "/hillarygmlwn/frontend_backup/static/js/488.f8b9d60e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c692bcf8.css",
+    "static/js/main.5317eb05.js"
+  ]
+}
